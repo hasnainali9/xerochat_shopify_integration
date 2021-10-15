@@ -1,1 +1,1 @@
-# shopify_integration
+# Xerochat Shopify Integration
